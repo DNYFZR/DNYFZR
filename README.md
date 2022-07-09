@@ -1,1 +1,1 @@
-![MathClock_long](https://user-images.githubusercontent.com/76977155/178106235-7a4c29a6-8900-4801-be15-603ccb72b588.jpg)
+![image](https://user-images.githubusercontent.com/76977155/178106583-05960ee8-83ce-4ad3-bd7a-5727a4fe39a8.png)
