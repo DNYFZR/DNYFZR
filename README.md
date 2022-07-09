@@ -1,1 +1,1 @@
-<img width="1261" alt="graffiti header" src="https://user-images.githubusercontent.com/76977155/178106148-d9c57a82-5fb1-490d-b826-3a42591f7219.PNG">
+![MathClock_long](https://user-images.githubusercontent.com/76977155/178106235-7a4c29a6-8900-4801-be15-603ccb72b588.jpg)
