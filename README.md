@@ -1,1 +1,5 @@
-![image](https://user-images.githubusercontent.com/76977155/178106583-05960ee8-83ce-4ad3-bd7a-5727a4fe39a8.png)
+<div align="center">
+  <a href="https://github.com/DNYFZR">
+  <img  src="https://github.com/DNYFZR/DNYFZR/blob/main/res/grid-snake.svg"
+       alt="snake" /></a>
+</div>
